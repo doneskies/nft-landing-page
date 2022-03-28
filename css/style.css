@@ -7,10 +7,10 @@
 /* GLOBAL STYLES */
 
 :root {
-  --font-primary: 'Trispace', sans-serif;
-  --font-secondary: 'Roboto Condensed', sans-serif, italic;
+  --font-primary: 'Trispace', sans-serif, bold;
+  --font-secondary: 'Roboto Condensed', sans-serif, italic, bold;
   --font-code: 'Roboto', monospace;
-  --bg-color: #989ca0;
+  --bg-color: #cacaca;
   --font-color: #0e0d0d;
   --btn-bg-color: #0a0a0a;
   --accent-color: #E9FF00;
